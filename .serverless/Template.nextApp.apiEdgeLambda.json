@@ -1,0 +1,17 @@
+{
+  "name": "v9fnxao-5z6ok",
+  "hash": "0Vhdkp9ju5hVzqQOurz34wREr/WEWltl5ekgcHwOTc8=",
+  "description": "API Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/Users/lepaul/Development/NFL/nfl-next/.serverless_nextjs/api-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs12.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::100248530977:role/v9fnxao-rqu53vd"
+  },
+  "arn": "arn:aws:lambda:us-east-1:100248530977:function:v9fnxao-5z6ok",
+  "region": "us-east-1"
+}

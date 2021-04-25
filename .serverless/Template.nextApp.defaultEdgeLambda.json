@@ -1,0 +1,17 @@
+{
+  "name": "v9fnxao-c9p3a1",
+  "hash": "1zGM3BNNhwAMTl9n5r8c5lsW3ACuD7bwfFju0K+Yksg=",
+  "description": "Default Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/Users/lepaul/Development/NFL/nfl-next/.serverless_nextjs/default-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs12.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::100248530977:role/v9fnxao-wy5m0ep"
+  },
+  "arn": "arn:aws:lambda:us-east-1:100248530977:function:v9fnxao-c9p3a1",
+  "region": "us-east-1"
+}
